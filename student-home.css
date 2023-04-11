@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    position: absolute;
+    top:73px;
+    left:30px
+}
+.star{
+    position: absolute;
+    left: 8px;
+    top: 3px;
+}
+.p1,.p2,.p3{
+    top:130px;
+}
+.b1,.b2,.b3{
+    top:163px;
+}
+.n1,.n2,.n3{
+    width:170px;
+    height:30px;
+    background-color: #E0C667;
+    top: 390px;
+    text-align: center;
+}
+.p1,.i1,.b1,.n1{
+    position: absolute;
+}
+.p1{
+    left:70px
+}
+.b1{
+    left:136px;
+}
+.n1{
+    left: 130px;
+}
+.i1{
+    top:223px;
+    left:150px
+}
+.p2,.i2,.n2,.b2{
+    position:absolute;
+}
+.p2{
+    left:600px;
+}
+.i2{
+    top:215px;
+    left: 688px;
+}
+.b2{
+    left: 670px;
+}
+.n2{
+    left: 664px;
+}
